@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+tags
+TAGS
+.emacs.desktop*
+*~
+build/
